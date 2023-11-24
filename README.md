@@ -20,6 +20,8 @@
 
 💡 Mi capacidad para trabajar con tecnologías como Java y SQL me permite abordar proyectos diversos con confianza y eficacia.<br>
 
+💻 Además de mis habilidades técnicas, mi dominio del idioma inglés certificado por Cambridge brinda una ventaja adicional para la comunicación efectiva en entornos internacionales.<br>
+
 ¡Explora mi repositorio y únete a este emocionante viaje de código! 🚀✨<br>
 
 <br>
