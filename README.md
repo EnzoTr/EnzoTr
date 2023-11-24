@@ -3,16 +3,36 @@
 </div>
 <img src="https://i.imgur.com/dlMvKdt.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](enzotur05@hotmail.com)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzotur05@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-antonio-tur-aab714214)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/193210979658498048)
+[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ATenzo)
 
-## Sobre mi
+## Sobre mi 🧑‍💻
 
-- 📲 Front End Developer
+<br>¡Bienvenido a mi perfil! 👋 Soy un apasionado Técnico Superior en Programación, estudio en la UTN en Argentina, cuento con más de 3 años de experiencia inmerso en el fascinante mundo del desarrollo.<br>
+
+🚀 Mis habilidades abarcan el desarrollo front-end, con tecnologías como HTML, CSS, SASS, JavaScript, Visual Studio Code, Node.js y Bootstrap entre otros, facilitando la creación de experiencias web excepcionales y la gestión eficiente de proyectos en equipo.<br>
+
+💼 Mi trayectoria laboral ha sido muy buena, especialmente en el ámbito multimedia. Tuve la oportunidad de colaborar en equipos utilizando herramientas como Trello para la planificación y ejecución de proyectos de manera efectiva. Además, he empleado con destreza programas de Adobe para la creación de trabajos multimedia<br>
+
+🎨 El diseño también es una de mis pasiones. Poseo sólidos conocimientos en diseño gráfico gracias a mi dominio de Adobe Premiere, Adobe XD, Adobe Photoshop y Adobe Illustrator. Esto me permite fusionar habilidades técnicas con una visión estética, creando productos que no solo funcionan bien, sino que también se vean impresionantes.<br>
+
+💡 Mi capacidad para trabajar con tecnologías como Java y SQL me permite abordar proyectos diversos con confianza y eficacia.<br>
+
+¡Explora mi repositorio y únete a este emocionante viaje de código! 🚀✨<br>
 
 <br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,nodejs,java,mysql,ableton,ae,pr,ai,ps,xd,discord,git,github&perline=12" />
+  </a>
+</p>
+<br>
+
 
 <!--
 
@@ -82,12 +102,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<!--
 <p align="center">
 <a href="https://github.com/ArisGuimera">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
+
 
 <!--
 **EnzoTr/EnzoTr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
