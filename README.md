@@ -10,9 +10,9 @@
 
 ## Sobre mi 🧑‍💻
 
-<br>¡Bienvenido a mi perfil! 👋 Soy un apasionado Técnico Superior en Programación, estudio en la UTN en Argentina, cuento con más de 3 años de experiencia inmerso en el fascinante mundo del desarrollo.<br>
+<br>¡Bienvenido a mi perfil! 👋 Soy un apasionado Técnico Superior en Programación, egresado de la UTN (Universidad Tecnica Nacional) en Argentina, cuento con más de 3 años de experiencia inmerso en el fascinante mundo del desarrollo.<br>
 
-🚀 Mis habilidades abarcan el desarrollo front-end, con tecnologías como HTML, CSS, SASS, JavaScript, Visual Studio Code, Node.js y Bootstrap entre otros, facilitando la creación de experiencias web excepcionales y la gestión eficiente de proyectos en equipo.<br>
+🚀 Mis habilidades abarcan el desarrollo front-end, con tecnologías como HTML, CSS, SASS, JavaScript, Visual Studio Code, React, Node.js y Bootstrap entre otros, facilitando la creación de experiencias web excepcionales y la gestión eficiente de proyectos en equipo.<br>
 
 💼 Mi trayectoria laboral ha sido muy buena, especialmente en el ámbito multimedia. Tuve la oportunidad de colaborar en equipos utilizando herramientas como Trello para la planificación y ejecución de proyectos de manera efectiva. Además, he empleado con destreza programas de Adobe para la creación de trabajos multimedia<br>
 
