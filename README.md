@@ -10,19 +10,19 @@
 
 ## Sobre mi 🧑‍💻
 
-<br>¡Bienvenido a mi perfil! 👋 Soy un apasionado Técnico Superior en Programación, egresado de la UTN (Universidad Tecnica Nacional) en Argentina, cuento con más de 3 años de experiencia inmerso en el fascinante mundo del desarrollo.<br>
+<br>¡Bienvenido a mi perfil! 👋 Soy un Técnico Superior en Programación, egresado de la UTN (Universidad Tecnica Nacional) en Argentina, cuento con más de 4 años de experiencia inmerso en el fascinante mundo del desarrollo.<br>
 
-🚀 Mis habilidades abarcan el desarrollo front-end, con tecnologías como HTML, CSS, SASS, JavaScript, Visual Studio Code, React, Node.js y Bootstrap entre otros, facilitando la creación de experiencias web excepcionales y la gestión eficiente de proyectos en equipo.<br>
+🚀 Mis habilidades abarcan el desarrollo front-end, con tecnologías como HTML, CSS, SASS, JavaScript, React, Node.js y distintos Frameworks entre otros, facilitando la creación de experiencias web excepcionales y la gestión eficiente de proyectos en equipo.<br>
 
-💼 Mi trayectoria laboral ha sido muy buena, especialmente en el ámbito multimedia. Tuve la oportunidad de colaborar en equipos utilizando herramientas como Trello para la planificación y ejecución de proyectos de manera efectiva. Además, he empleado con destreza programas de Adobe para la creación de trabajos multimedia<br>
+💡 Del lado del desarrollo back-end cuento con conocimiento y experiencia trabajando con el stack MERN (MongoDB, Express, React y NodeJS), así tambien con bases de datos SQL.<br>
+
+💼 Mi trayectoria laboral comenzó en el ámbito multimedia, colaborando en equipos utilizando herramientas para la ejecución de proyectos de forma efectiva. En el ámbito de la programación he realizado proyectos para individuos y empresas, en ocasiones trabajando en equipo.<br>
 
 🎨 El diseño también es una de mis pasiones. Poseo sólidos conocimientos en diseño gráfico gracias a mi dominio de Adobe Premiere, Adobe XD, Adobe Photoshop y Adobe Illustrator. Esto me permite fusionar habilidades técnicas con una visión estética, creando productos que no solo funcionan bien, sino que también se vean impresionantes.<br>
 
-💡 Mi capacidad para trabajar con tecnologías como Java y SQL me permite abordar proyectos diversos con confianza y eficacia.<br>
-
 💻 Además de mis habilidades técnicas, mi dominio del idioma inglés certificado por Cambridge brinda una ventaja adicional para la comunicación efectiva en entornos internacionales.<br>
 
-¡Explora mi repositorio y únete a este emocionante viaje de código! 🚀✨<br>
+¡Explora mi repositorio y mis trabajos más recientes! 🚀✨<br>
 
 <br>
 
