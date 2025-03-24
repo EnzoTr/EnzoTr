@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/enzo-antonio-tur-aab714214">Enzo Tur</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/VQHFVaV">
+<img src="https://i.imgur.com/Gk7DdWn.jpeg">
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzotur05@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-antonio-tur-aab714214)
