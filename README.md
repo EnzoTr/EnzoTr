@@ -10,7 +10,7 @@
 
 ## Sobre mi 🧑‍💻
 
-<br>¡Bienvenido a mi perfil! 👋 Soy un Técnico Superior en Programación, egresado de la UTN (Universidad Tecnica Nacional) en Argentina, cuento con más de 4 años de experiencia inmerso en el fascinante mundo del desarrollo.<br>
+<br>¡Bienvenido a mi perfil! 👋 Soy un Técnico Universitario en Programación, egresado de la UTN (Universidad Tecnica Nacional) en Argentina, cuento con más de 4 años de experiencia inmerso en el fascinante mundo del desarrollo.<br>
 
 🚀 Mis habilidades abarcan el desarrollo front-end, con tecnologías como HTML, CSS, SASS, JavaScript, React, Node.js y distintos Frameworks entre otros, facilitando la creación de experiencias web excepcionales y la gestión eficiente de proyectos en equipo.<br>
 
